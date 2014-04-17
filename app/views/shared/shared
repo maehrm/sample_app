@@ -1,0 +1,10 @@
+  /Users/maehrm/rails_projects/sample_app/app/views/shared:
+  total used in directory 56 available 27016857
+  drwxr-xr-x  9 maehrm  staff  306  4 17 21:54 .
+  drwxr-xr-x  8 maehrm  staff  272  4 15 21:47 ..
+  -rw-r--r--  1 maehrm  staff  310  4 15 21:47 _error_messages.html.erb
+  -rw-r--r--  1 maehrm  staff  176  4 15 21:47 _feed.html.erb
+  -rw-r--r--  1 maehrm  staff  596  4 15 21:47 _feed_item.html.erb
+  -rw-r--r--  1 maehrm  staff  268  4 15 21:47 _micropost_form.html.erb
+  -rw-r--r--  1 maehrm  staff  377  4 17 21:54 _stats.html.erb
+  -rw-r--r--  1 maehrm  staff  272  4 15 21:47 _user_info.html.erb
